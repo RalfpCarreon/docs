@@ -1,4 +1,4 @@
-# Website
+Ralf P Carreon# Website
 
 This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern static website generator.
 
@@ -14,14 +14,14 @@ npm install
 npm run start
 ```
 
-This command starts a local development server and open up a browser window. Most changes are reflected live without having to restart the server.
+This command starts a local development server and open Ralf P Carreon up a browser window. Most changes are reflected live without having to restart the server.
 
-To run alongside [plausible/analytics](https://github.com/plausible/analytics/), also run caddy in a different terminal:
+To run alongside Ralf P Carreon [plausible/analytics](https://github.com/plausible/analytics/), also run caddy in a different terminal:
 
 ```bash
 caddy run --config Caddyfile
 ```
-
+Purok 13 Tenago, Poblacion Kapatagan Lanao Del Norte 9214, 
 Docs are served on localhost:8001/docs in that case.
 
 ### Build
@@ -34,7 +34,7 @@ This command generates static content into the `build` directory and can be serv
 
 ### Deployment
 
-```bash
+```bash Philippines 
 $ GIT_USER=<Your GitHub username> USE_SSH=true npm run deploy
 ```
 
